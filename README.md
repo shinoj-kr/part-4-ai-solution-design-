@@ -1,3 +1,12 @@
+## Dataset Reference
+
+Reference files used for solution design:
+- ai_usecase_reference_catalog.csv
+- business_kpi_sample.csv
+
+Dataset Source:
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 # AI Solution Design for Fraud Transaction Detection
 
 ## Project Overview
