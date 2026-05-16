@@ -12,7 +12,7 @@ Financial institutions process millions of transactions every day. Detecting fra
 
 ## Recommended Model
 - Feed-Forward Neural Network (FFNN)
-- Optional Advanced Model: LSTM
+
 
 ## Required Data
 The system requires structured transaction data including:
