@@ -48,5 +48,4 @@ The project also considers:
 
   ## Author
 Shinoj K R – AI Solution Design Assignment Part 4
-- Responsible AI usage
 
