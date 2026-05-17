@@ -101,7 +101,7 @@ Possible data quality risks include:
 Feed-Forward Neural Network (FFNN)
 
 ## Model Description
-A Feed-Forward Neural Network is a deep learning model that processes input data through multiple hidden layers to identify patterns and relationships in transaction data.
+A Feed-Forward Neural Network is a deep learning model that processes input data through multiple hidden layers to identify patterns and relationships in transaction data. The model training process includes loss calculation using Binary Cross Entropy Loss. Backpropagation and Adam Optimizer are used to update model weights during training. Human analyst feedback can be incorporated for continuous model improvement.
 
 ## Why This Model is Appropriate
 The selected model is suitable because:
@@ -137,7 +137,7 @@ Possible failure cases include:
 - Model performance degradation over time
 
 ## Human Review and Validation
-High-risk transactions flagged by the AI system should be reviewed by fraud analysts before taking final action. Human oversight is necessary to reduce false alerts and improve decision-making accuracy.
+High-risk transactions flagged by the AI system should be reviewed by fraud analysts before taking final action. Human oversight is necessary to reduce false alerts and improve decision-making accuracy.Feedback from fraud analysts can be used to retrain and improve the neural network model over time.
 
 # Task 7: Responsible AI Considerations
 
