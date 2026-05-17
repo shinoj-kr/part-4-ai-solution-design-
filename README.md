@@ -22,6 +22,9 @@ Financial institutions process millions of transactions every day. Detecting fra
 ## Recommended Model
 - Feed-Forward Neural Network (FFNN)
 
+## Model Training Process
+The Feed-Forward Neural Network (FFNN) is trained using Binary Cross Entropy Loss and Backpropagation with Adam Optimizer. 
+Human analyst feedback can also be incorporated to continuously improve fraud detection performance.
 
 ## Required Data
 The system requires structured transaction data including:
